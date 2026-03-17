@@ -1,5 +1,7 @@
 ### ChangelogWindow.xaml.cs
 
+changelog-tab-title-ChangelogOpenspace = OPENSPACE Changelog
+
 changelog-window-title = Обновления
 changelog-author-changed = [color=#EEE]{ $author }[/color] изменил:
 changelog-today = Сегодня
